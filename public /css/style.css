@@ -1,0 +1,8 @@
+@font-face {
+    font-family: amatic;
+    src: url(../fonts/amatic.ttf);
+}
+
+body {
+	font-family: "Times New Roman", Times, serif;
+}
